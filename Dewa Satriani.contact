@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2018-01-24T05:25:10Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="74c10326-ed1d-4a97-8b34-aec220d5dbb6"><c:Value>38bbf349-5313-48c7-bf30-3dfa73ead1ab</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="da66c229-d9b6-4cef-a8c1-7f5196fe1d41"><c:FormattedName>Dewa Satriani</c:FormattedName><c:FamilyName>Satriani</c:FamilyName><c:GivenName>Dewa</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="d1143404-8603-49b9-8c3e-f6c7f602e73e"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
